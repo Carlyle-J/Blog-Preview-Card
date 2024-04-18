@@ -31,11 +31,6 @@ Users should be able to:
 
 This project reinforced my knowledge of the box model and I look forward to learning more concepts and techniques.
 
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
 
 ### Continued development
 
